@@ -1,0 +1,99 @@
+{
+    "events": [
+        {
+            "type": "follow",
+            "duration": "00:02:06:21",
+            "name": "Bumper",
+            "assets": [
+                {
+                    "reference": "ARF99493",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:06:21",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-25 13:08:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:02:07:22",
+            "name": "Bumper",
+            "assets": [
+                {
+                    "reference": "ARF99494",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:07:22",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-25 13:09:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:02:08:23",
+            "name": "Bumper",
+            "assets": [
+                {
+                    "reference": "ARF99495",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:08:23",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-25 13:10:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:02:09:24",
+            "name": "Bumper",
+            "assets": [
+                {
+                    "reference": "ARF99496",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:09:24",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-25 13:11:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:02:10:25",
+            "name": "Bumper",
+            "assets": [
+                {
+                    "reference": "ARF99497",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:10:25",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-25 13:12:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        }
+    ]
+}

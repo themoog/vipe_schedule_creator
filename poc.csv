@@ -1,0 +1,6 @@
+type,duration,name,reference,tcIn,tcOut,assetType,startTime,behaviorName
+follow,00:02:06:21,Bumper,ARF99493,00:00:00:00,00:02:06:21,main,2020-03-21 13:08:39:00,CLP
+follow,00:02:07:22,Bumper,ARF99494,00:00:00:00,00:02:07:22,main,2020-03-22 13:09:40:00,CLP
+follow,00:02:08:23,Bumper,ARF99495,00:00:00:00,00:02:08:23,main,2020-03-23 13:10:41:00,CLP
+follow,00:02:09:24,Bumper,ARF99496,00:00:00:00,00:02:09:24,main,2020-03-24 13:11:42:00,CLP
+follow,00:02:10:25,Bumper,ARF99497,00:00:00:00,00:02:10:25,main,2020-03-25 13:12:43:00,CLP
