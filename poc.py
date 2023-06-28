@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
     SCHEDULE_OUTPUT_DATE = datetime.today().strftime("%Y-%m-%d")
     # Define the CSV and JSON filenames
-    csv_filename = "poc.csv"
+    csv_filename = "poc2.csv"
     json_filename = "data.json"
 
     # Call the function to read CSV and create JSON

@@ -2,17 +2,17 @@
     "events": [
         {
             "type": "follow",
-            "duration": "00:02:06:21",
-            "name": "Bumper",
+            "duration": "00:04:38:00",
+            "name": "VAD",
             "assets": [
                 {
-                    "reference": "ARF99493",
+                    "reference": "BTVP1001",
                     "tcIn": "00:00:00:00",
-                    "tcOut": "00:02:06:21",
+                    "tcOut": "00:04:38:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-25 13:08:39:00",
+            "startTime": "2023-06-28 00:00:00:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -21,17 +21,17 @@
         },
         {
             "type": "follow",
-            "duration": "00:02:07:22",
-            "name": "Bumper",
+            "duration": "00:10:02:00",
+            "name": "LEO",
             "assets": [
                 {
-                    "reference": "ARF99494",
+                    "reference": "BTVP1002",
                     "tcIn": "00:00:00:00",
-                    "tcOut": "00:02:07:22",
+                    "tcOut": "00:10:02:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-25 13:09:40:00",
+            "startTime": "2023-06-28 00:04:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -40,17 +40,17 @@
         },
         {
             "type": "follow",
-            "duration": "00:02:08:23",
-            "name": "Bumper",
+            "duration": "00:07:50:00",
+            "name": "VMC",
             "assets": [
                 {
-                    "reference": "ARF99495",
+                    "reference": "BTVP1003",
                     "tcIn": "00:00:00:00",
-                    "tcOut": "00:02:08:23",
+                    "tcOut": "00:07:50:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-25 13:10:41:00",
+            "startTime": "2023-06-28 00:14:40:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -59,17 +59,17 @@
         },
         {
             "type": "follow",
-            "duration": "00:02:09:24",
-            "name": "Bumper",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
             "assets": [
                 {
-                    "reference": "ARF99496",
+                    "reference": "BTVP1004",
                     "tcIn": "00:00:00:00",
-                    "tcOut": "00:02:09:24",
+                    "tcOut": "00:04:42:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-25 13:11:42:00",
+            "startTime": "2023-06-28 00:22:30:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -78,17 +78,3684 @@
         },
         {
             "type": "follow",
-            "duration": "00:02:10:25",
-            "name": "Bumper",
+            "duration": "00:07:40:00",
+            "name": "VENA",
             "assets": [
                 {
-                    "reference": "ARF99497",
+                    "reference": "BTVP1005",
                     "tcIn": "00:00:00:00",
-                    "tcOut": "00:02:10:25",
+                    "tcOut": "00:07:40:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-25 13:12:43:00",
+            "startTime": "2023-06-28 00:27:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 00:34:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 00:39:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 00:44:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 00:54:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:02:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:07:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:14:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:19:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:24:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:34:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:42:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:46:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:54:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 01:59:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:04:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:14:19:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:22:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:26:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:34:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:39:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:44:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 02:54:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:02:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:06:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:14:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:19:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:24:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:34:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:41:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:46:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:54:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 03:59:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:03:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:13:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:21:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:26:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:34:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:39:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:43:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 04:53:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:01:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:06:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:14:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:19:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:23:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:33:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:41:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:46:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:53:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 05:58:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:03:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:13:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:21:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:26:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:33:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:38:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:43:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 06:53:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:01:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:06:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:13:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:18:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:23:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:33:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:41:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:45:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:53:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 07:58:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:03:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:13:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:21:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:25:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:33:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:38:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:43:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 08:53:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:00:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:05:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:13:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:18:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:23:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:33:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:40:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:45:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:53:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 09:58:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:02:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:12:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:20:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:25:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:33:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:38:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:42:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 10:52:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:00:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:05:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:13:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:18:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:22:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:32:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:40:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:45:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:52:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 11:57:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:02:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:12:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:20:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:25:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:32:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:37:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:42:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 12:52:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:00:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:04:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:12:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:17:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:22:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:32:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:40:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:44:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:52:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 13:57:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:02:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:12:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:20:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:24:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:32:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:37:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:42:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:52:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 14:59:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:04:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:12:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:17:19:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:21:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:31:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:39:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:44:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:52:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 15:57:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:01:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:11:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:19:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:24:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:32:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:37:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:41:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:51:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 16:59:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:04:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:11:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:16:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:21:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:31:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:39:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:44:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:51:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 17:56:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:01:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:11:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:19:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:24:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:31:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:36:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:41:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:51:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 18:59:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:03:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:11:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:16:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:21:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:31:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:39:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:43:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:51:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 19:56:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:01:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:11:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:19:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:23:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:31:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:36:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:41:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:51:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 20:58:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:03:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:11:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:16:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:20:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:30:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:38:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:43:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-28 21:51:08:00",
             "behaviors": [
                 {
                     "name": "CLP"
