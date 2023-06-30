@@ -1,8 +1,8 @@
 {
     "events": [
         {
-            "reference": "e0e50b51-41db-497d-91dc-28cb352a360e",
-            "type": "fixed",
+            "reference": "4bbbe890-0184-4626-94b2-5994045bfe68",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -13,25 +13,15 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:00:00:00",
+            "startTime": "2023-06-30 00:00:00:00",
             "behaviors": [
                 {
                     "name": "CLP"
-                },
-                {
-                    "name": "SCTE104_OUT",
-                    "params": {
-                        "spliceEventId": "42",
-                        "breakDuration": "00:05:00:00"
-                    },
-                    "original": "",
-                    "disabled": false,
-                    "rule": false
                 }
             ]
         },
         {
-            "reference": "a56d6e24-d04b-4abb-ad4d-24856c832d5b",
+            "reference": "ece96c82-6f21-4884-b7cc-14c931e02115",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -43,7 +33,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:04:38:00",
+            "startTime": "2023-06-30 00:04:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -51,7 +41,7 @@
             ]
         },
         {
-            "reference": "ad685f87-cf9c-4b92-bd98-37a1d82594cd",
+            "reference": "9abbd99f-f031-48bc-b4b9-e501f3970778",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -63,7 +53,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:14:40:00",
+            "startTime": "2023-06-30 00:14:40:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -71,7 +61,7 @@
             ]
         },
         {
-            "reference": "e9f13335-f30b-4d35-8868-1b22c6879152",
+            "reference": "5e9594da-5e3f-4533-947c-0f25eeb1b4a2",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -83,7 +73,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:22:30:00",
+            "startTime": "2023-06-30 00:22:30:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -91,7 +81,7 @@
             ]
         },
         {
-            "reference": "30afafdd-890e-4681-b6ed-94915a193434",
+            "reference": "22340574-1e22-44cc-8de0-fe66302a8976",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -103,7 +93,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:27:12:00",
+            "startTime": "2023-06-30 00:27:12:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -111,7 +101,7 @@
             ]
         },
         {
-            "reference": "ebe5b631-280a-443c-aa86-f109dbc35699",
+            "reference": "157e6c9c-f0b0-40d1-90d8-833622cd82f6",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -123,7 +113,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:34:52:00",
+            "startTime": "2023-06-30 00:34:52:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -131,8 +121,8 @@
             ]
         },
         {
-            "reference": "2b755039-dbde-41f5-80b4-c0d15e894f64",
-            "type": "fixed",
+            "reference": "f4aa0662-2e89-4a22-b4fb-55d2697825e7",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -143,7 +133,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:39:53:00",
+            "startTime": "2023-06-30 00:39:53:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -151,7 +141,7 @@
             ]
         },
         {
-            "reference": "ec7c5874-5f95-4005-be80-9e009ab05452",
+            "reference": "2352bdda-ddff-44e5-966e-5f8ffbbdfd3e",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -163,7 +153,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:44:31:00",
+            "startTime": "2023-06-30 00:44:31:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -171,7 +161,7 @@
             ]
         },
         {
-            "reference": "f3145c46-9d8b-429e-a42c-895abc0aaf94",
+            "reference": "eacb584a-e505-4c59-a54d-91c86303f975",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -183,7 +173,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 00:54:33:00",
+            "startTime": "2023-06-30 00:54:33:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -191,7 +181,7 @@
             ]
         },
         {
-            "reference": "1d04be3e-4d18-4810-9c9d-a86639d47682",
+            "reference": "7115a8cd-abd1-42b4-a0d0-78a2942b3cde",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -203,7 +193,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:02:23:00",
+            "startTime": "2023-06-30 01:02:23:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -211,7 +201,7 @@
             ]
         },
         {
-            "reference": "5e167571-eae5-4bc7-b61d-7c5abf272186",
+            "reference": "30dc8c8e-ff37-46c9-a368-f82854eb409c",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -223,7 +213,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:07:05:00",
+            "startTime": "2023-06-30 01:07:05:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -231,7 +221,7 @@
             ]
         },
         {
-            "reference": "800e1137-fc0f-4b98-a4f5-f37e7ebf1b20",
+            "reference": "120d73aa-077a-4c73-aefc-88a1b71331c3",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -243,7 +233,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:14:45:00",
+            "startTime": "2023-06-30 01:14:45:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -251,8 +241,8 @@
             ]
         },
         {
-            "reference": "731193bf-3c29-4273-b089-e73d49077eae",
-            "type": "fixed",
+            "reference": "289a9c11-9aa6-4d9a-8a18-9459edd8b78e",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -263,7 +253,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:19:46:00",
+            "startTime": "2023-06-30 01:19:46:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -271,7 +261,7 @@
             ]
         },
         {
-            "reference": "27afdf8b-85fa-43af-8b10-ac65d2cef517",
+            "reference": "5a94ac96-c9b8-4055-ad75-715361e52856",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -283,7 +273,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:24:24:00",
+            "startTime": "2023-06-30 01:24:24:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -291,7 +281,7 @@
             ]
         },
         {
-            "reference": "c9ef5dc8-32dc-47e3-94bf-5d995b51eddb",
+            "reference": "b78d18e6-7f1a-4b27-ac0b-329dc2a8da61",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -303,7 +293,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:34:26:00",
+            "startTime": "2023-06-30 01:34:26:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -311,7 +301,7 @@
             ]
         },
         {
-            "reference": "737bb1f9-defc-4cc3-a3bf-635d3c704143",
+            "reference": "984765c8-3fb9-446a-a19c-a2e2df1e0dfb",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -323,7 +313,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:42:16:00",
+            "startTime": "2023-06-30 01:42:16:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -331,7 +321,7 @@
             ]
         },
         {
-            "reference": "43e6b9f7-a5ea-4487-acbf-654d6e14ae02",
+            "reference": "c090d12b-0bdf-40ad-b8b8-695cc8bf5f36",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -343,7 +333,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:46:58:00",
+            "startTime": "2023-06-30 01:46:58:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -351,7 +341,7 @@
             ]
         },
         {
-            "reference": "45e2cd7f-bf2d-448d-846a-eb750a6cb75c",
+            "reference": "8b1d823f-5335-4a92-8a3d-ac3cf2d36106",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -363,7 +353,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:54:38:00",
+            "startTime": "2023-06-30 01:54:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -371,8 +361,8 @@
             ]
         },
         {
-            "reference": "66e87e99-dca1-415d-abce-fa875f502587",
-            "type": "fixed",
+            "reference": "f268fb7d-6bf9-4374-8641-a503c41f9684",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -383,7 +373,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 01:59:39:00",
+            "startTime": "2023-06-30 01:59:39:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -391,7 +381,7 @@
             ]
         },
         {
-            "reference": "c139abca-d8b6-4636-9cab-6feb83989cb5",
+            "reference": "235f164b-9845-4997-9407-7fcc94f4ae54",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -403,7 +393,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:04:17:00",
+            "startTime": "2023-06-30 02:04:17:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -411,7 +401,7 @@
             ]
         },
         {
-            "reference": "d68af2a5-c58c-4816-8696-523e6ced6bd1",
+            "reference": "b1e7b41f-4eb7-4c67-81ce-34d98fc471f3",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -423,7 +413,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:14:19:00",
+            "startTime": "2023-06-30 02:14:19:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -431,7 +421,7 @@
             ]
         },
         {
-            "reference": "84513dab-d0fd-47ba-b64f-17a8c57bfe09",
+            "reference": "c41450a2-791e-4ab1-8180-ceb132a4dbc7",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -443,7 +433,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:22:09:00",
+            "startTime": "2023-06-30 02:22:09:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -451,7 +441,7 @@
             ]
         },
         {
-            "reference": "1145a67d-bb4e-4202-b62c-3e58aba95263",
+            "reference": "baf39e9a-745d-4a41-8e93-aaa602b306c8",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -463,7 +453,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:26:51:00",
+            "startTime": "2023-06-30 02:26:51:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -471,7 +461,7 @@
             ]
         },
         {
-            "reference": "062ab7b4-6b0e-4d46-9fee-ba070dc260e5",
+            "reference": "f93b0126-04a7-42e8-bf20-b9d6c434d0d2",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -483,7 +473,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:34:31:00",
+            "startTime": "2023-06-30 02:34:31:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -491,8 +481,8 @@
             ]
         },
         {
-            "reference": "05630c52-b0db-400a-8d11-73ea0ab41c68",
-            "type": "fixed",
+            "reference": "54f4ceea-1b92-44a3-b7fb-2895fbc45119",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -503,7 +493,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:39:32:00",
+            "startTime": "2023-06-30 02:39:32:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -511,7 +501,7 @@
             ]
         },
         {
-            "reference": "890037af-fa65-4e95-bcf5-530426661671",
+            "reference": "7783cc99-35ee-456a-8f5b-71395cf9fc5e",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -523,7 +513,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:44:10:00",
+            "startTime": "2023-06-30 02:44:10:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -531,7 +521,7 @@
             ]
         },
         {
-            "reference": "38e5b914-76d9-4be6-9ebf-d434ea7a5f1a",
+            "reference": "400d0bce-eb0a-4ca7-a322-965d89002215",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -543,7 +533,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 02:54:12:00",
+            "startTime": "2023-06-30 02:54:12:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -551,7 +541,7 @@
             ]
         },
         {
-            "reference": "dbac6b8e-87ae-4ea7-8416-35d15acac3b0",
+            "reference": "632a0ea1-636f-4ebd-851a-0405f4d1d21a",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -563,7 +553,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:02:02:00",
+            "startTime": "2023-06-30 03:02:02:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -571,7 +561,7 @@
             ]
         },
         {
-            "reference": "e1ff5764-676b-444f-8317-32b8da1aeec3",
+            "reference": "f969dbc4-641b-4583-b1ac-bcdb31f7de33",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -583,7 +573,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:06:44:00",
+            "startTime": "2023-06-30 03:06:44:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -591,7 +581,7 @@
             ]
         },
         {
-            "reference": "e5e77ec5-a20e-4788-a982-c4af032e8560",
+            "reference": "bece70f4-0775-4aa8-b14a-4d19fe7aee9c",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -603,7 +593,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:14:24:00",
+            "startTime": "2023-06-30 03:14:24:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -611,8 +601,8 @@
             ]
         },
         {
-            "reference": "ab104b92-c1a3-4c19-97f5-39619566a23f",
-            "type": "fixed",
+            "reference": "aff9796a-1ff9-4b58-83a5-902425e51525",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -623,7 +613,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:19:25:00",
+            "startTime": "2023-06-30 03:19:25:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -631,7 +621,7 @@
             ]
         },
         {
-            "reference": "a29aae83-e557-4be5-86d5-105829db443e",
+            "reference": "f5c0c8a4-fff6-4dc0-bd95-87eeb02a7a0f",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -643,7 +633,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:24:03:00",
+            "startTime": "2023-06-30 03:24:03:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -651,7 +641,7 @@
             ]
         },
         {
-            "reference": "40ed5760-ffac-409b-a48c-a955a9dbd641",
+            "reference": "3931b91b-9e86-4168-b28c-d8dc7ec4511d",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -663,7 +653,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:34:05:00",
+            "startTime": "2023-06-30 03:34:05:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -671,7 +661,7 @@
             ]
         },
         {
-            "reference": "8842072f-24e0-4edf-ae3a-c8c6cb661935",
+            "reference": "d18fbe00-a937-4388-a4b2-23384547d492",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -683,7 +673,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:41:55:00",
+            "startTime": "2023-06-30 03:41:55:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -691,7 +681,7 @@
             ]
         },
         {
-            "reference": "63c15fbb-29c9-4ac9-be53-c778cad9fa1e",
+            "reference": "a1e81a61-29f4-472c-8e83-b66278277123",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -703,7 +693,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:46:37:00",
+            "startTime": "2023-06-30 03:46:37:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -711,7 +701,7 @@
             ]
         },
         {
-            "reference": "8836bc61-da68-4098-8f57-7025185df032",
+            "reference": "b1e80383-2a02-4a58-84dc-4b7d70ba2970",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -723,7 +713,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:54:17:00",
+            "startTime": "2023-06-30 03:54:17:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -731,8 +721,8 @@
             ]
         },
         {
-            "reference": "595b9f01-9898-4c68-bce1-e2c035a12ca0",
-            "type": "fixed",
+            "reference": "444fbbd7-0901-428a-b67a-54e617769af0",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -743,7 +733,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 03:59:18:00",
+            "startTime": "2023-06-30 03:59:18:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -751,7 +741,7 @@
             ]
         },
         {
-            "reference": "6cce0a9b-c180-41b8-9a6b-e90019cfc53f",
+            "reference": "6ca5924f-fc03-47d9-b1d6-43f96579a433",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -763,7 +753,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:03:56:00",
+            "startTime": "2023-06-30 04:03:56:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -771,7 +761,7 @@
             ]
         },
         {
-            "reference": "cea2d476-a4fc-4afb-bd61-89ba63e5e1ac",
+            "reference": "7aafeafd-1093-48b8-9cdf-adaee055efff",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -783,7 +773,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:13:58:00",
+            "startTime": "2023-06-30 04:13:58:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -791,7 +781,7 @@
             ]
         },
         {
-            "reference": "58aeb865-6f3e-424a-b6f5-37f68ef9df97",
+            "reference": "222c294e-afc5-4e6f-b7f6-e0285286b697",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -803,7 +793,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:21:48:00",
+            "startTime": "2023-06-30 04:21:48:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -811,7 +801,7 @@
             ]
         },
         {
-            "reference": "eecb7523-dfcb-4cf2-8112-501482253af1",
+            "reference": "8150d1cc-8af0-49d0-a998-90ea50778d73",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -823,7 +813,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:26:30:00",
+            "startTime": "2023-06-30 04:26:30:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -831,7 +821,7 @@
             ]
         },
         {
-            "reference": "a53a7039-e9d3-410a-80df-5a7582e774f8",
+            "reference": "af33dc6f-d952-42de-b3a9-c815ec453050",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -843,7 +833,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:34:10:00",
+            "startTime": "2023-06-30 04:34:10:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -851,8 +841,8 @@
             ]
         },
         {
-            "reference": "68a697c1-53ec-45e5-9620-a4880981f37e",
-            "type": "fixed",
+            "reference": "31b7b2af-0729-43f7-ac91-38c2ba621bff",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -863,7 +853,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:39:11:00",
+            "startTime": "2023-06-30 04:39:11:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -871,7 +861,7 @@
             ]
         },
         {
-            "reference": "f33bf642-3884-4e1f-b971-a44696515f32",
+            "reference": "8b35f335-4194-4380-b4f7-9eb1f19811bd",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -883,7 +873,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:43:49:00",
+            "startTime": "2023-06-30 04:43:49:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -891,7 +881,7 @@
             ]
         },
         {
-            "reference": "d9021b64-e0ea-4fea-b247-f9a1fd7726d3",
+            "reference": "d0f2f047-effe-4167-8b00-1213fc5a40fc",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -903,7 +893,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 04:53:51:00",
+            "startTime": "2023-06-30 04:53:51:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -911,7 +901,7 @@
             ]
         },
         {
-            "reference": "f05e14bd-8eb4-4887-8c82-fdb0bee942e9",
+            "reference": "c1f96057-8192-476e-9df8-a3dc724b4d7f",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -923,7 +913,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:01:41:00",
+            "startTime": "2023-06-30 05:01:41:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -931,7 +921,7 @@
             ]
         },
         {
-            "reference": "d71052ce-72d7-4ac2-9a3d-126cb914f5d3",
+            "reference": "6855a24b-8e49-4ad0-b9be-4472bb088a55",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -943,7 +933,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:06:23:00",
+            "startTime": "2023-06-30 05:06:23:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -951,7 +941,7 @@
             ]
         },
         {
-            "reference": "a5ea12d6-8822-4b60-a039-c122c69b8e19",
+            "reference": "a0e36374-6f74-438e-a2a5-4931e80ac910",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -963,7 +953,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:14:03:00",
+            "startTime": "2023-06-30 05:14:03:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -971,8 +961,8 @@
             ]
         },
         {
-            "reference": "1d35627b-92cc-4026-a2cc-1bff25a43abd",
-            "type": "fixed",
+            "reference": "7aafad96-7030-49ef-a245-a32ef3d81176",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -983,7 +973,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:19:04:00",
+            "startTime": "2023-06-30 05:19:04:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -991,7 +981,7 @@
             ]
         },
         {
-            "reference": "211d7747-dd3c-46bc-843f-36cbac8da4d0",
+            "reference": "0dbd828a-ef5b-4ad7-b1fc-b03c894d27e4",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1003,7 +993,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:23:42:00",
+            "startTime": "2023-06-30 05:23:42:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1011,7 +1001,7 @@
             ]
         },
         {
-            "reference": "e15881b4-2024-4aec-a0bd-6d17537919af",
+            "reference": "e536c55c-7b16-4a2d-8e2b-836e43d49d52",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1023,7 +1013,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:33:44:00",
+            "startTime": "2023-06-30 05:33:44:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1031,7 +1021,7 @@
             ]
         },
         {
-            "reference": "78b4f5f6-2a06-4c98-97c2-eecb8068b889",
+            "reference": "5e10526b-9aa5-4733-a4a1-a264a0ccc213",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1043,7 +1033,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:41:34:00",
+            "startTime": "2023-06-30 05:41:34:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1051,7 +1041,7 @@
             ]
         },
         {
-            "reference": "9e98bf69-cdd1-4f9b-b16c-bcfff3ae94ca",
+            "reference": "6f0c4a97-08ca-444e-9fd4-deff17e156e5",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1063,7 +1053,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:46:16:00",
+            "startTime": "2023-06-30 05:46:16:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1071,7 +1061,7 @@
             ]
         },
         {
-            "reference": "bf88df11-e1b8-4cc9-b04f-6ed7e87560b4",
+            "reference": "ead1852e-db49-407d-a00f-d23846fe4b42",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1083,7 +1073,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:53:56:00",
+            "startTime": "2023-06-30 05:53:56:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1091,8 +1081,8 @@
             ]
         },
         {
-            "reference": "20745d6c-f49f-4db3-921b-5c11dab1c55a",
-            "type": "fixed",
+            "reference": "ae038fc0-be0d-4069-b985-350c183943a4",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1103,7 +1093,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 05:58:57:00",
+            "startTime": "2023-06-30 05:58:57:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1111,7 +1101,7 @@
             ]
         },
         {
-            "reference": "045f1192-89a4-4477-9451-a940874e0388",
+            "reference": "3f1e54c6-2958-46bd-ae01-0da1558c714b",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1123,7 +1113,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:03:35:00",
+            "startTime": "2023-06-30 06:03:35:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1131,7 +1121,7 @@
             ]
         },
         {
-            "reference": "cdfc8182-26f9-4c71-a1cc-777361a80d51",
+            "reference": "bf69e0dd-3cc5-403c-9ab8-04cfb3d81712",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1143,7 +1133,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:13:37:00",
+            "startTime": "2023-06-30 06:13:37:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1151,7 +1141,7 @@
             ]
         },
         {
-            "reference": "4553c64f-c7d0-4e14-8d39-c9da7236e737",
+            "reference": "52c5476f-514f-4a1d-9642-3cd5e46ec558",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1163,7 +1153,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:21:27:00",
+            "startTime": "2023-06-30 06:21:27:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1171,7 +1161,7 @@
             ]
         },
         {
-            "reference": "04409a5a-1825-440c-b008-0412ab0247ea",
+            "reference": "39af65d9-eb9f-4d77-befb-307e64aad7e3",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1183,7 +1173,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:26:09:00",
+            "startTime": "2023-06-30 06:26:09:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1191,7 +1181,7 @@
             ]
         },
         {
-            "reference": "c63653d6-788b-46cf-8fb0-01945a6a4ec5",
+            "reference": "552a5afc-10a5-4cf4-a774-9da6153a30d0",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1203,7 +1193,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:33:49:00",
+            "startTime": "2023-06-30 06:33:49:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1211,8 +1201,8 @@
             ]
         },
         {
-            "reference": "566933f2-8773-4259-ae23-d164efb1ad03",
-            "type": "fixed",
+            "reference": "e36fe59c-cc4d-4a0f-8fef-75fb1e57c0bf",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1223,7 +1213,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:38:50:00",
+            "startTime": "2023-06-30 06:38:50:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1231,7 +1221,7 @@
             ]
         },
         {
-            "reference": "10a12704-491a-4ff1-a7f9-fdea4589c7bc",
+            "reference": "32a2863f-e55e-44a4-94c8-6ee934407ff6",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1243,7 +1233,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:43:28:00",
+            "startTime": "2023-06-30 06:43:28:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1251,7 +1241,7 @@
             ]
         },
         {
-            "reference": "eae57de5-7393-4175-86cb-36f77a9ea5ef",
+            "reference": "34d9e203-9308-4a4a-ae9c-50b94ef79aae",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1263,7 +1253,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 06:53:30:00",
+            "startTime": "2023-06-30 06:53:30:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1271,7 +1261,7 @@
             ]
         },
         {
-            "reference": "f12c3a8b-842b-4aa6-ba31-524a648e4059",
+            "reference": "7f752401-2ad6-4e16-9512-a3a68e209267",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1283,7 +1273,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:01:20:00",
+            "startTime": "2023-06-30 07:01:20:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1291,7 +1281,7 @@
             ]
         },
         {
-            "reference": "8a163772-301a-4712-93aa-4262ef2137d3",
+            "reference": "bb9a9d28-2e39-472d-b9b4-a5dd136a654c",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1303,7 +1293,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:06:02:00",
+            "startTime": "2023-06-30 07:06:02:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1311,7 +1301,7 @@
             ]
         },
         {
-            "reference": "b554d249-a9db-47d2-8299-ac291564623b",
+            "reference": "93446d5d-f60b-4c19-94e0-fb4f999a0aeb",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1323,7 +1313,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:13:42:00",
+            "startTime": "2023-06-30 07:13:42:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1331,8 +1321,8 @@
             ]
         },
         {
-            "reference": "64274a10-eda1-4104-9f36-ab80a1b76fe8",
-            "type": "fixed",
+            "reference": "ed278c84-0f1a-440a-bc8d-e180c5e59252",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1343,7 +1333,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:18:43:00",
+            "startTime": "2023-06-30 07:18:43:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1351,7 +1341,7 @@
             ]
         },
         {
-            "reference": "40710f64-4ecc-417c-aa96-e6e65d768ef7",
+            "reference": "29eb6b2f-c3d2-4e43-8f19-d6294911621c",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1363,7 +1353,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:23:21:00",
+            "startTime": "2023-06-30 07:23:21:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1371,7 +1361,7 @@
             ]
         },
         {
-            "reference": "d796b5de-f630-4c5e-a9e7-2b13f1f115f7",
+            "reference": "19514b21-b2b7-4605-97e8-b350261187a6",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1383,7 +1373,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:33:23:00",
+            "startTime": "2023-06-30 07:33:23:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1391,7 +1381,7 @@
             ]
         },
         {
-            "reference": "3995e535-e007-4b20-8b2e-4c3fe1c13a59",
+            "reference": "a8bfd7fd-ccee-4dd9-b643-19495166a354",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1403,7 +1393,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:41:13:00",
+            "startTime": "2023-06-30 07:41:13:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1411,7 +1401,7 @@
             ]
         },
         {
-            "reference": "fc1e95b5-8c2a-484d-bc6c-9afe114c4b6c",
+            "reference": "66980d91-258d-4bfc-a1e3-0b053f064e79",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1423,7 +1413,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:45:55:00",
+            "startTime": "2023-06-30 07:45:55:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1431,7 +1421,7 @@
             ]
         },
         {
-            "reference": "8cca8dc7-b7c5-4036-8bd3-4d4cd661c3b2",
+            "reference": "90f2274f-dfea-4389-b585-88e1a6b97fba",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1443,7 +1433,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:53:35:00",
+            "startTime": "2023-06-30 07:53:35:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1451,8 +1441,8 @@
             ]
         },
         {
-            "reference": "a2c5aed2-3a46-47c6-bc5c-e0c2e3c30a25",
-            "type": "fixed",
+            "reference": "d857b330-b641-4382-ba0c-36a04eec70ef",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1463,7 +1453,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 07:58:36:00",
+            "startTime": "2023-06-30 07:58:36:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1471,7 +1461,7 @@
             ]
         },
         {
-            "reference": "10a6d30a-d4b8-4ddd-a640-0854e625caeb",
+            "reference": "e458624c-2d93-4c41-9fd5-b9922aa70ad2",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1483,7 +1473,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:03:14:00",
+            "startTime": "2023-06-30 08:03:14:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1491,7 +1481,7 @@
             ]
         },
         {
-            "reference": "b54edd06-b60f-4430-a4b8-e0427779a75f",
+            "reference": "2dcfab63-1c17-42f5-b290-0c512c072e48",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1503,7 +1493,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:13:16:00",
+            "startTime": "2023-06-30 08:13:16:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1511,7 +1501,7 @@
             ]
         },
         {
-            "reference": "42f0f825-4454-4877-871b-d372f93c041f",
+            "reference": "9150f452-6cf3-4851-8844-1180fa1144c6",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1523,7 +1513,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:21:06:00",
+            "startTime": "2023-06-30 08:21:06:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1531,7 +1521,7 @@
             ]
         },
         {
-            "reference": "6c80b67c-bd39-49c0-86bf-25178169848e",
+            "reference": "719d95b5-0ad6-4f3b-bcdb-99ad3e2ca84a",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1543,7 +1533,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:25:48:00",
+            "startTime": "2023-06-30 08:25:48:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1551,7 +1541,7 @@
             ]
         },
         {
-            "reference": "c6590e2e-9036-4b1b-a4c0-e8517822c101",
+            "reference": "d421f093-b441-4238-ba84-0fb6aa360855",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1563,7 +1553,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:33:28:00",
+            "startTime": "2023-06-30 08:33:28:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1571,8 +1561,8 @@
             ]
         },
         {
-            "reference": "f86ac5f4-ff87-4019-a320-5b6fdc2941ee",
-            "type": "fixed",
+            "reference": "7e8f43e6-9a0a-478b-9d8a-932eef2e694f",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1583,7 +1573,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:38:29:00",
+            "startTime": "2023-06-30 08:38:29:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1591,7 +1581,7 @@
             ]
         },
         {
-            "reference": "51c006ba-b815-46ed-9a4c-c35a765fc375",
+            "reference": "700337fe-c8c9-4b5b-89ca-bcff0b8f2dbb",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1603,7 +1593,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:43:07:00",
+            "startTime": "2023-06-30 08:43:07:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1611,7 +1601,7 @@
             ]
         },
         {
-            "reference": "e5aedcc7-f1d3-417e-88f1-43f4645be1be",
+            "reference": "51d4e4fa-55aa-4592-80d4-67a9e4c9c9de",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1623,7 +1613,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 08:53:09:00",
+            "startTime": "2023-06-30 08:53:09:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1631,7 +1621,7 @@
             ]
         },
         {
-            "reference": "65735188-fa53-4e28-a9f0-0abf6951a6b6",
+            "reference": "2eefd9e7-0019-46b3-a185-8fce68f0a847",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1643,7 +1633,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:00:59:00",
+            "startTime": "2023-06-30 09:00:59:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1651,7 +1641,7 @@
             ]
         },
         {
-            "reference": "3f955631-a931-480a-8f59-2882e94d2ab9",
+            "reference": "40ed6231-d7cf-4958-9588-00ca8255d777",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1663,7 +1653,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:05:41:00",
+            "startTime": "2023-06-30 09:05:41:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1671,7 +1661,7 @@
             ]
         },
         {
-            "reference": "0d2b2fcc-daba-43ac-8c65-60eedaaf6e24",
+            "reference": "76f9bc22-6537-4780-976e-a66f79317d78",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1683,7 +1673,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:13:21:00",
+            "startTime": "2023-06-30 09:13:21:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1691,8 +1681,8 @@
             ]
         },
         {
-            "reference": "0b4cfcbf-1fe5-46e5-86f4-2aba6731e92e",
-            "type": "fixed",
+            "reference": "8651f611-6d69-4e40-8e0f-5b971f2b2194",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1703,7 +1693,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:18:22:00",
+            "startTime": "2023-06-30 09:18:22:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1711,7 +1701,7 @@
             ]
         },
         {
-            "reference": "5dfdc645-1284-4d56-bab1-1bc7790d04d1",
+            "reference": "12dcf8cc-2cdd-43c5-8fed-57a90b6b991a",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1723,7 +1713,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:23:00:00",
+            "startTime": "2023-06-30 09:23:00:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1731,7 +1721,7 @@
             ]
         },
         {
-            "reference": "2692cd8d-dcf9-4aab-b01a-007d14ebe755",
+            "reference": "aedeffe6-8efe-49f4-a97e-2fb99512b9d2",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1743,7 +1733,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:33:02:00",
+            "startTime": "2023-06-30 09:33:02:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1751,7 +1741,7 @@
             ]
         },
         {
-            "reference": "9cf96b00-3041-42f6-9824-8241010de3a1",
+            "reference": "06f33cad-c12b-4240-966e-6e5e52e026e7",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1763,7 +1753,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:40:52:00",
+            "startTime": "2023-06-30 09:40:52:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1771,7 +1761,7 @@
             ]
         },
         {
-            "reference": "309092b8-a96e-4527-9384-18146421d8df",
+            "reference": "e6f0ad07-9910-4989-8421-b57f561cee2d",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1783,7 +1773,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:45:34:00",
+            "startTime": "2023-06-30 09:45:34:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1791,7 +1781,7 @@
             ]
         },
         {
-            "reference": "e0937ffa-c781-4a0c-b57e-3c5e6d751629",
+            "reference": "f13abe40-71f0-4cb5-b414-6bca282ac2ce",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1803,7 +1793,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:53:14:00",
+            "startTime": "2023-06-30 09:53:14:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1811,8 +1801,8 @@
             ]
         },
         {
-            "reference": "91b43b46-7ac6-4627-965d-617a87698682",
-            "type": "fixed",
+            "reference": "90a4c22e-bf4d-4af5-bc8d-dc5b9ef50fe3",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1823,7 +1813,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 09:58:15:00",
+            "startTime": "2023-06-30 09:58:15:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1831,7 +1821,7 @@
             ]
         },
         {
-            "reference": "8460d452-8dc7-42aa-8d93-090ad5315898",
+            "reference": "2cf888d2-ac40-474a-86b8-3552f222d8ce",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1843,7 +1833,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:02:53:00",
+            "startTime": "2023-06-30 10:02:53:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1851,7 +1841,7 @@
             ]
         },
         {
-            "reference": "aa2d8b41-f8ae-4692-893c-18879e4f3134",
+            "reference": "073c3ea1-907f-44f0-a1ad-e3c574d5126b",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1863,7 +1853,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:12:55:00",
+            "startTime": "2023-06-30 10:12:55:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1871,7 +1861,7 @@
             ]
         },
         {
-            "reference": "e0a1a7ee-7670-4d01-a7bb-a3bb3a7f6c61",
+            "reference": "67845193-58fd-44ed-a8ac-649fbf61cec3",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -1883,7 +1873,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:20:45:00",
+            "startTime": "2023-06-30 10:20:45:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1891,7 +1881,7 @@
             ]
         },
         {
-            "reference": "def43aec-46fa-488f-a69c-408e5de9e3b2",
+            "reference": "98228a7f-aaa9-4d55-aab7-5e0554d4d24f",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -1903,7 +1893,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:25:27:00",
+            "startTime": "2023-06-30 10:25:27:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1911,7 +1901,7 @@
             ]
         },
         {
-            "reference": "7bd43388-4a76-4fce-bf3c-daaea4d6ed10",
+            "reference": "8757dc6c-6dd1-4fb0-8da9-68b044117c27",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -1923,7 +1913,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:33:07:00",
+            "startTime": "2023-06-30 10:33:07:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1931,8 +1921,8 @@
             ]
         },
         {
-            "reference": "6451861e-45b5-4814-a99b-63bdee865466",
-            "type": "fixed",
+            "reference": "10653476-69d1-436e-9d76-a1c0cbee8ee7",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -1943,7 +1933,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:38:08:00",
+            "startTime": "2023-06-30 10:38:08:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1951,7 +1941,7 @@
             ]
         },
         {
-            "reference": "0ca8c8ea-b490-4c7c-9b66-7ddf9dae0252",
+            "reference": "5df23fb2-8a28-4010-8781-1ca5f6cb7e47",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -1963,7 +1953,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:42:46:00",
+            "startTime": "2023-06-30 10:42:46:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1971,7 +1961,7 @@
             ]
         },
         {
-            "reference": "d871df8a-de1b-4c55-9907-3ef2e3ce0d6c",
+            "reference": "711576f8-1b8a-4656-9299-14b4cb56b2b8",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -1983,7 +1973,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 10:52:48:00",
+            "startTime": "2023-06-30 10:52:48:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -1991,7 +1981,7 @@
             ]
         },
         {
-            "reference": "8e36cc94-80b8-4683-b9f5-a06a9235bb05",
+            "reference": "31dc04b5-36a2-4b90-98b4-a1f9bb96b4f6",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2003,7 +1993,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:00:38:00",
+            "startTime": "2023-06-30 11:00:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2011,7 +2001,7 @@
             ]
         },
         {
-            "reference": "22a3c04a-b009-45f1-9bdd-21b6aae0e72a",
+            "reference": "ca2f2896-eebb-40bb-93ea-0062eec79fa8",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2023,7 +2013,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:05:20:00",
+            "startTime": "2023-06-30 11:05:20:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2031,7 +2021,7 @@
             ]
         },
         {
-            "reference": "674ac4e0-c38b-47dc-90f8-3193afaa1ac1",
+            "reference": "d524c3c6-a163-40d8-94c6-507c251cacb5",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2043,7 +2033,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:13:00:00",
+            "startTime": "2023-06-30 11:13:00:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2051,8 +2041,8 @@
             ]
         },
         {
-            "reference": "7a513c7f-25c9-4ace-9e9a-53690427426e",
-            "type": "fixed",
+            "reference": "0d31aeec-a43a-44b0-aeba-3a313cfd6f66",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2063,7 +2053,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:18:01:00",
+            "startTime": "2023-06-30 11:18:01:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2071,7 +2061,7 @@
             ]
         },
         {
-            "reference": "c5899f4f-bd7f-4d3b-a420-fb32d27617e2",
+            "reference": "d5c37a10-bb30-4921-a275-d6bf86dfa2ea",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2083,7 +2073,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:22:39:00",
+            "startTime": "2023-06-30 11:22:39:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2091,7 +2081,7 @@
             ]
         },
         {
-            "reference": "e41fcbe1-cbdd-4f95-99a0-6c36580a9239",
+            "reference": "6805cb54-0f61-448b-9c17-7260c70e301f",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2103,7 +2093,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:32:41:00",
+            "startTime": "2023-06-30 11:32:41:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2111,7 +2101,7 @@
             ]
         },
         {
-            "reference": "9f0b0b8c-76a6-44ca-a168-1195fbde50e4",
+            "reference": "6f4b4f9b-2e25-4f10-a521-0d433bf16b51",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2123,7 +2113,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:40:31:00",
+            "startTime": "2023-06-30 11:40:31:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2131,7 +2121,7 @@
             ]
         },
         {
-            "reference": "57ec2647-b890-4aac-9111-32d521c70155",
+            "reference": "d3be99cc-774f-4c97-85b4-a8164005da7e",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2143,7 +2133,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:45:13:00",
+            "startTime": "2023-06-30 11:45:13:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2151,7 +2141,7 @@
             ]
         },
         {
-            "reference": "1597f177-8d9c-4f4b-91e9-e0601a7fa0a9",
+            "reference": "dd4a4c64-f363-465a-806a-69f3371f24ea",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2163,7 +2153,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:52:53:00",
+            "startTime": "2023-06-30 11:52:53:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2171,8 +2161,8 @@
             ]
         },
         {
-            "reference": "00fcc767-1ba3-47a5-9f62-527ed712876a",
-            "type": "fixed",
+            "reference": "9c4e1a45-cdb1-40a9-a421-4bb03f2e4d3a",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2183,7 +2173,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 11:57:54:00",
+            "startTime": "2023-06-30 11:57:54:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2191,7 +2181,7 @@
             ]
         },
         {
-            "reference": "bf6205d8-4dfd-4b25-926f-8fcaf04a62a6",
+            "reference": "de6f9e75-543c-46f8-ae97-20f5f30eb445",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2203,7 +2193,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:02:32:00",
+            "startTime": "2023-06-30 12:02:32:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2211,7 +2201,7 @@
             ]
         },
         {
-            "reference": "c785b2bb-31d8-4cf0-8305-abdec80d9c51",
+            "reference": "f658e05a-caf6-4fb4-91ab-b018bd2b7426",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2223,7 +2213,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:12:34:00",
+            "startTime": "2023-06-30 12:12:34:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2231,7 +2221,7 @@
             ]
         },
         {
-            "reference": "aee83f3e-e700-4461-b0cf-49ef9d48dad1",
+            "reference": "e59573da-5005-4892-ae55-ef0703a44059",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2243,7 +2233,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:20:24:00",
+            "startTime": "2023-06-30 12:20:24:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2251,7 +2241,7 @@
             ]
         },
         {
-            "reference": "2f98a43f-f564-4a10-886a-90ccc825f9a1",
+            "reference": "3902fb41-dd63-4a9d-8dbc-5b88f6090a8f",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2263,7 +2253,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:25:06:00",
+            "startTime": "2023-06-30 12:25:06:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2271,7 +2261,7 @@
             ]
         },
         {
-            "reference": "589d3816-26b6-4773-91cb-7da63495e924",
+            "reference": "1b37109a-a884-4d35-be4c-4f08f22fad9f",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2283,7 +2273,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:32:46:00",
+            "startTime": "2023-06-30 12:32:46:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2291,8 +2281,8 @@
             ]
         },
         {
-            "reference": "eeb91e63-c686-4bf0-a900-5c53e09bf359",
-            "type": "fixed",
+            "reference": "a73b2ca7-778e-4e7a-b32a-924773e5cd39",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2303,7 +2293,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:37:47:00",
+            "startTime": "2023-06-30 12:37:47:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2311,7 +2301,7 @@
             ]
         },
         {
-            "reference": "2e80ce5c-220e-4bf1-a039-0d1f38125860",
+            "reference": "8b7c3487-1e52-4292-83be-6e6642cf3e38",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2323,7 +2313,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:42:25:00",
+            "startTime": "2023-06-30 12:42:25:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2331,7 +2321,7 @@
             ]
         },
         {
-            "reference": "500bbf04-666b-42a1-a488-50f632ee12ae",
+            "reference": "402a5355-27a6-4a0a-ad88-f3bef42e9d1f",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2343,7 +2333,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 12:52:27:00",
+            "startTime": "2023-06-30 12:52:27:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2351,7 +2341,7 @@
             ]
         },
         {
-            "reference": "f9c25786-e76a-473f-84d5-8eb7f05c28da",
+            "reference": "9f51c91f-0618-43f5-a466-ae6e545236e5",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2363,7 +2353,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:00:17:00",
+            "startTime": "2023-06-30 13:00:17:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2371,7 +2361,7 @@
             ]
         },
         {
-            "reference": "1f873247-b55d-46e4-8662-28f1c2257fdf",
+            "reference": "74531d11-cc65-48d7-9a2e-f3dfa34fc262",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2383,7 +2373,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:04:59:00",
+            "startTime": "2023-06-30 13:04:59:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2391,7 +2381,7 @@
             ]
         },
         {
-            "reference": "76b3f9b6-2ad9-4e51-8e62-c5989f5e7f48",
+            "reference": "fd711045-45e5-419c-b726-713db06cb5b5",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2403,7 +2393,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:12:39:00",
+            "startTime": "2023-06-30 13:12:39:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2411,8 +2401,8 @@
             ]
         },
         {
-            "reference": "9b830257-f65c-4220-875d-e79c28472b38",
-            "type": "fixed",
+            "reference": "927ba041-2683-4be6-9162-38693860373e",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2423,7 +2413,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:17:40:00",
+            "startTime": "2023-06-30 13:17:40:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2431,7 +2421,7 @@
             ]
         },
         {
-            "reference": "d0c6fb85-a7cd-466f-8a9b-c4697e39889c",
+            "reference": "bdcd033c-7b89-45c6-b1ce-0263e06f6192",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2443,7 +2433,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:22:18:00",
+            "startTime": "2023-06-30 13:22:18:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2451,7 +2441,7 @@
             ]
         },
         {
-            "reference": "1b581c5c-dfcc-43b9-be8c-a307b90b6f40",
+            "reference": "89c9bd6b-1f26-4355-a664-5afd6089d0d3",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2463,7 +2453,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:32:20:00",
+            "startTime": "2023-06-30 13:32:20:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2471,7 +2461,7 @@
             ]
         },
         {
-            "reference": "ced14784-5467-4fa7-b5d4-a891d7ecb570",
+            "reference": "2daa9535-c672-471b-b653-a61da66deb06",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2483,7 +2473,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:40:10:00",
+            "startTime": "2023-06-30 13:40:10:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2491,7 +2481,7 @@
             ]
         },
         {
-            "reference": "a3686ea8-7d69-4238-a9f7-d9de75d47841",
+            "reference": "dcb4cd3f-2bdb-4525-a3f3-f2b8e4a5843c",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2503,7 +2493,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:44:52:00",
+            "startTime": "2023-06-30 13:44:52:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2511,7 +2501,7 @@
             ]
         },
         {
-            "reference": "6124dd3a-c228-4048-aeef-77e4b7207ba8",
+            "reference": "e92c0a4d-b769-48c4-a43c-6e128f43c114",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2523,7 +2513,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:52:32:00",
+            "startTime": "2023-06-30 13:52:32:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2531,8 +2521,8 @@
             ]
         },
         {
-            "reference": "7fbf3d35-6c9d-4381-8944-82a3876f782a",
-            "type": "fixed",
+            "reference": "1b8cbe92-686a-4333-b72b-3e3db9e7ef84",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2543,7 +2533,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 13:57:33:00",
+            "startTime": "2023-06-30 13:57:33:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2551,7 +2541,7 @@
             ]
         },
         {
-            "reference": "ec6e05b7-bf85-4b10-8c04-1914296b294f",
+            "reference": "e301decf-6c8d-4c1c-9e69-3fc8a4be202d",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2563,7 +2553,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:02:11:00",
+            "startTime": "2023-06-30 14:02:11:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2571,7 +2561,7 @@
             ]
         },
         {
-            "reference": "d8495f4d-60a1-407e-ab20-51fc0589abf6",
+            "reference": "e23bb9b9-4fdd-4791-b5f2-257895993440",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2583,7 +2573,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:12:13:00",
+            "startTime": "2023-06-30 14:12:13:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2591,7 +2581,7 @@
             ]
         },
         {
-            "reference": "672fb3f8-04ee-4de5-a958-cc1ad8f14beb",
+            "reference": "02aa5136-1898-43d5-bed0-32a94efd08a1",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2603,7 +2593,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:20:03:00",
+            "startTime": "2023-06-30 14:20:03:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2611,7 +2601,7 @@
             ]
         },
         {
-            "reference": "81b25eeb-0b22-4ce8-884a-d568cf9e87ce",
+            "reference": "3809a179-27b7-4671-a585-2ea53c6ba227",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2623,7 +2613,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:24:45:00",
+            "startTime": "2023-06-30 14:24:45:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2631,7 +2621,7 @@
             ]
         },
         {
-            "reference": "3e6b5aa0-9050-4e9c-8c32-bdf7049e057f",
+            "reference": "61f4a5ec-0312-417d-8539-be0bbfd607f7",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2643,7 +2633,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:32:25:00",
+            "startTime": "2023-06-30 14:32:25:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2651,8 +2641,8 @@
             ]
         },
         {
-            "reference": "f5bee8b4-2b4d-4baf-ba4e-d9d272541e4f",
-            "type": "fixed",
+            "reference": "b1f9563f-5032-493b-98f1-f5fc915b3907",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2663,7 +2653,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:37:26:00",
+            "startTime": "2023-06-30 14:37:26:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2671,7 +2661,7 @@
             ]
         },
         {
-            "reference": "6881040b-ce6f-4c35-9746-da49c7f3c612",
+            "reference": "61e7183e-2950-40b5-ac56-29d488d47bb9",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2683,7 +2673,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:42:04:00",
+            "startTime": "2023-06-30 14:42:04:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2691,7 +2681,7 @@
             ]
         },
         {
-            "reference": "1d130ac1-992a-48d1-aab1-4e9d499d4bf7",
+            "reference": "4b23cf6e-6734-4b95-99d1-c75b9768cbba",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2703,7 +2693,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:52:06:00",
+            "startTime": "2023-06-30 14:52:06:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2711,7 +2701,7 @@
             ]
         },
         {
-            "reference": "de2b8102-4574-4861-a690-84958ba5e323",
+            "reference": "2df93b26-a1c7-4527-b722-a28fe4ee6b6b",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2723,7 +2713,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 14:59:56:00",
+            "startTime": "2023-06-30 14:59:56:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2731,7 +2721,7 @@
             ]
         },
         {
-            "reference": "6efd5ab3-46e9-46cf-8ad0-ebcda25986a8",
+            "reference": "b35d2f60-27b5-4305-b6c8-882f3ab85140",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2743,7 +2733,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:04:38:00",
+            "startTime": "2023-06-30 15:04:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2751,7 +2741,7 @@
             ]
         },
         {
-            "reference": "fb5f450f-1e0a-42bc-82dd-45daf49409df",
+            "reference": "c41bbc27-04e5-4176-8226-4218a1575c43",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2763,7 +2753,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:12:18:00",
+            "startTime": "2023-06-30 15:12:18:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2771,8 +2761,8 @@
             ]
         },
         {
-            "reference": "573e37ea-6c7c-4ee4-9038-d6ca3b050de3",
-            "type": "fixed",
+            "reference": "cbe7a4f6-5085-4756-8070-e5a2c642ee3b",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2783,7 +2773,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:17:19:00",
+            "startTime": "2023-06-30 15:17:19:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2791,7 +2781,7 @@
             ]
         },
         {
-            "reference": "55ce1e29-7756-4808-a760-e8aa79b19f91",
+            "reference": "cffb5180-7eef-40ab-8904-a5ccc0f02d6c",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2803,7 +2793,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:21:57:00",
+            "startTime": "2023-06-30 15:21:57:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2811,7 +2801,7 @@
             ]
         },
         {
-            "reference": "a69821be-6b3a-4cf4-9640-fcdb652ab44f",
+            "reference": "a82a8849-7212-47af-b859-1bbe3155581d",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2823,7 +2813,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:31:59:00",
+            "startTime": "2023-06-30 15:31:59:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2831,7 +2821,7 @@
             ]
         },
         {
-            "reference": "ca3b3baf-aaec-4481-9d73-628c27af7831",
+            "reference": "1cec1bdd-1634-4265-ac0e-a297f9fc5a81",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2843,7 +2833,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:39:49:00",
+            "startTime": "2023-06-30 15:39:49:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2851,7 +2841,7 @@
             ]
         },
         {
-            "reference": "03ef6205-70c9-4140-bedf-b721b1a0ed61",
+            "reference": "3e4b31ab-23c6-4753-8cef-e33afaf1205f",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2863,7 +2853,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:44:31:00",
+            "startTime": "2023-06-30 15:44:31:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2871,7 +2861,7 @@
             ]
         },
         {
-            "reference": "79a12055-e8e9-46ec-bf71-be2d1178bf41",
+            "reference": "2f47b329-0d13-4b99-910f-6c5ec7a7a695",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -2883,7 +2873,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:52:11:00",
+            "startTime": "2023-06-30 15:52:11:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2891,8 +2881,8 @@
             ]
         },
         {
-            "reference": "21d4192f-8b80-4e0e-baa9-ffe06d6ce08e",
-            "type": "fixed",
+            "reference": "d693dd14-1a82-41bc-a052-3776d18df02f",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -2903,7 +2893,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 15:57:12:00",
+            "startTime": "2023-06-30 15:57:12:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2911,7 +2901,7 @@
             ]
         },
         {
-            "reference": "60be7b30-c058-414c-88a5-1c728a848777",
+            "reference": "284ee8fe-c967-4a1c-a5c6-41c7e09b4502",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -2923,7 +2913,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:01:50:00",
+            "startTime": "2023-06-30 16:01:50:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2931,7 +2921,7 @@
             ]
         },
         {
-            "reference": "84462311-bcb6-4f2d-b0cd-37537027ecd0",
+            "reference": "f06d36ca-99ca-40f0-836d-ae6b6bebf6f3",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -2943,7 +2933,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:11:52:00",
+            "startTime": "2023-06-30 16:11:52:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2951,7 +2941,7 @@
             ]
         },
         {
-            "reference": "c718d47c-c0b2-4b97-a6c5-ef82d251caaa",
+            "reference": "f4eaf5c4-4b5e-43e4-ac9f-9de24c5c777c",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -2963,7 +2953,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:19:42:00",
+            "startTime": "2023-06-30 16:19:42:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2971,7 +2961,7 @@
             ]
         },
         {
-            "reference": "5ece58fb-91f7-4006-92df-72fd491e920c",
+            "reference": "d3c8df01-e78b-49b3-b5fa-359620963a53",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -2983,7 +2973,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:24:24:00",
+            "startTime": "2023-06-30 16:24:24:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -2991,7 +2981,7 @@
             ]
         },
         {
-            "reference": "0a40c3e7-d0c2-440e-a28f-650143e9f505",
+            "reference": "0233756e-3321-4b7f-b161-2bdff4b2c583",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3003,7 +2993,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:32:04:00",
+            "startTime": "2023-06-30 16:32:04:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3011,8 +3001,8 @@
             ]
         },
         {
-            "reference": "8502d9ae-ad91-4f51-8cf3-c2cd66c2e0e3",
-            "type": "fixed",
+            "reference": "8172d1dc-33e8-4596-b2e5-ffcf58b446f4",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3023,7 +3013,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:37:05:00",
+            "startTime": "2023-06-30 16:37:05:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3031,7 +3021,7 @@
             ]
         },
         {
-            "reference": "982a5710-7e04-4a71-95b9-abe11077f687",
+            "reference": "e9fe242f-f6f8-4e8d-9a94-f56b6c0e3515",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3043,7 +3033,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:41:43:00",
+            "startTime": "2023-06-30 16:41:43:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3051,7 +3041,7 @@
             ]
         },
         {
-            "reference": "16f544c4-0e5b-460c-9f86-e4cd849e3040",
+            "reference": "73d7c9c9-7634-462c-b5b0-da1c774de903",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3063,7 +3053,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:51:45:00",
+            "startTime": "2023-06-30 16:51:45:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3071,7 +3061,7 @@
             ]
         },
         {
-            "reference": "9fffc560-5bc2-4119-a05b-922904c41d5a",
+            "reference": "97748079-c1a3-4b39-b7da-beb44f9831e3",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3083,7 +3073,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 16:59:35:00",
+            "startTime": "2023-06-30 16:59:35:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3091,7 +3081,7 @@
             ]
         },
         {
-            "reference": "c363da43-a760-4c8d-8a73-d4da49fab6c8",
+            "reference": "dde34202-d272-42b5-8a82-453f680e90d4",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3103,7 +3093,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:04:17:00",
+            "startTime": "2023-06-30 17:04:17:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3111,7 +3101,7 @@
             ]
         },
         {
-            "reference": "28cc0095-c14f-4d91-b505-00a794cbe979",
+            "reference": "7d25b0d4-eb2f-4429-b7e6-ecc1645249b2",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3123,7 +3113,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:11:57:00",
+            "startTime": "2023-06-30 17:11:57:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3131,8 +3121,8 @@
             ]
         },
         {
-            "reference": "bb2cc71b-4516-4e72-b9aa-12aca13692e1",
-            "type": "fixed",
+            "reference": "e3367e73-7bb8-4743-bed6-03ecfb988957",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3143,7 +3133,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:16:58:00",
+            "startTime": "2023-06-30 17:16:58:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3151,7 +3141,7 @@
             ]
         },
         {
-            "reference": "53cdf1b7-2dd4-44b3-9892-4b9d8fdca7b0",
+            "reference": "6d20ddeb-925c-41b2-a61c-d1e0b296322b",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3163,7 +3153,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:21:36:00",
+            "startTime": "2023-06-30 17:21:36:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3171,7 +3161,7 @@
             ]
         },
         {
-            "reference": "b9bdc937-4b89-4c8e-ad55-aae4afd6319f",
+            "reference": "3cd18624-ca84-482d-a66b-fefc91826272",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3183,7 +3173,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:31:38:00",
+            "startTime": "2023-06-30 17:31:38:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3191,7 +3181,7 @@
             ]
         },
         {
-            "reference": "e4eb2fab-156d-4a11-872c-25c8120ad07d",
+            "reference": "81e6f0e9-f5c5-4ba1-ab43-c2e4835a002e",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3203,7 +3193,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:39:28:00",
+            "startTime": "2023-06-30 17:39:28:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3211,7 +3201,7 @@
             ]
         },
         {
-            "reference": "e29ea171-ccd5-4911-9225-33215876c8c6",
+            "reference": "413ca801-db41-49af-9fa6-5353a6be58c7",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3223,7 +3213,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:44:10:00",
+            "startTime": "2023-06-30 17:44:10:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3231,7 +3221,7 @@
             ]
         },
         {
-            "reference": "07262442-b2b7-433d-8683-2426d69be7cd",
+            "reference": "642dfa2a-7e32-4ec4-a616-96001e4576f8",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3243,7 +3233,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:51:50:00",
+            "startTime": "2023-06-30 17:51:50:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3251,8 +3241,8 @@
             ]
         },
         {
-            "reference": "3865ba7a-0815-4965-a9d1-188c1359379a",
-            "type": "fixed",
+            "reference": "e14e8e60-b966-4481-b09d-c5acda107ebe",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3263,7 +3253,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 17:56:51:00",
+            "startTime": "2023-06-30 17:56:51:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3271,7 +3261,7 @@
             ]
         },
         {
-            "reference": "a9a87c36-b665-4b97-9554-7086b6a86b18",
+            "reference": "12e79913-ef12-4b74-b6ea-ef43c424b72f",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3283,7 +3273,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:01:29:00",
+            "startTime": "2023-06-30 18:01:29:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3291,7 +3281,7 @@
             ]
         },
         {
-            "reference": "7cfc0215-fb13-4e75-8584-951115928fd0",
+            "reference": "a343b2da-298d-4b69-ba74-bc22a956e495",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3303,7 +3293,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:11:31:00",
+            "startTime": "2023-06-30 18:11:31:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3311,7 +3301,7 @@
             ]
         },
         {
-            "reference": "f5f883a6-614f-4f7b-b431-fedddb7ccfcf",
+            "reference": "76643df0-a642-42a9-995c-475565da9123",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3323,7 +3313,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:19:21:00",
+            "startTime": "2023-06-30 18:19:21:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3331,7 +3321,7 @@
             ]
         },
         {
-            "reference": "188994a8-9492-41c1-aff0-f7bc0df0f68f",
+            "reference": "fdd43a0b-a22f-4f0e-a3b1-f2c35cc8266e",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3343,7 +3333,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:24:03:00",
+            "startTime": "2023-06-30 18:24:03:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3351,7 +3341,7 @@
             ]
         },
         {
-            "reference": "3a98fac0-ed85-4755-81bc-3c9da736c9c9",
+            "reference": "850b8fd9-c3aa-4252-9052-ddb4fb240fa2",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3363,7 +3353,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:31:43:00",
+            "startTime": "2023-06-30 18:31:43:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3371,8 +3361,8 @@
             ]
         },
         {
-            "reference": "290bdbbf-cc3a-4421-95fb-47a05c5c4f39",
-            "type": "fixed",
+            "reference": "5211150b-b3e4-4cb3-a79d-20451b526813",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3383,7 +3373,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:36:44:00",
+            "startTime": "2023-06-30 18:36:44:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3391,7 +3381,7 @@
             ]
         },
         {
-            "reference": "f30eebb6-531f-4a33-96c4-afb2bd30424f",
+            "reference": "0630b42b-b1a8-4390-a70f-3e62143c25eb",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3403,7 +3393,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:41:22:00",
+            "startTime": "2023-06-30 18:41:22:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3411,7 +3401,7 @@
             ]
         },
         {
-            "reference": "e8f4cfe1-8804-4a97-bee3-2dcde4f9a03d",
+            "reference": "b5ee5010-8d1a-4e99-ba94-24d02ee7de1b",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3423,7 +3413,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:51:24:00",
+            "startTime": "2023-06-30 18:51:24:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3431,7 +3421,7 @@
             ]
         },
         {
-            "reference": "035c67c9-23e8-4abe-a7b9-f01a6094c03a",
+            "reference": "2bd4464d-d9eb-4385-99db-e13370fb989f",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3443,7 +3433,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 18:59:14:00",
+            "startTime": "2023-06-30 18:59:14:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3451,7 +3441,7 @@
             ]
         },
         {
-            "reference": "ec014ef4-de05-4d3d-a261-1e4da8b5ec6a",
+            "reference": "7e3131b3-740e-4589-82a1-931526ac3abd",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3463,7 +3453,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:03:56:00",
+            "startTime": "2023-06-30 19:03:56:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3471,7 +3461,7 @@
             ]
         },
         {
-            "reference": "ff6acae0-708f-412b-9ea7-4bb1ecc96369",
+            "reference": "9198aa83-ba57-4a19-8210-2ca5ce710381",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3483,7 +3473,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:11:36:00",
+            "startTime": "2023-06-30 19:11:36:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3491,8 +3481,8 @@
             ]
         },
         {
-            "reference": "acc97007-ed2a-49b5-99d0-072d706d8f22",
-            "type": "fixed",
+            "reference": "bec11707-e383-4310-964d-b74fe0b77730",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3503,7 +3493,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:16:37:00",
+            "startTime": "2023-06-30 19:16:37:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3511,7 +3501,7 @@
             ]
         },
         {
-            "reference": "0f163e8b-8897-490c-b887-f412d9f6f618",
+            "reference": "1e76bb61-ef77-4926-b300-b81735ffecdc",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3523,7 +3513,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:21:15:00",
+            "startTime": "2023-06-30 19:21:15:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3531,7 +3521,7 @@
             ]
         },
         {
-            "reference": "39c8bb00-abb5-4230-8aa2-a7bb101414ff",
+            "reference": "d350814a-4a22-4c71-af88-9855284d06c5",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3543,7 +3533,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:31:17:00",
+            "startTime": "2023-06-30 19:31:17:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3551,7 +3541,7 @@
             ]
         },
         {
-            "reference": "dbc6e4b9-cf2d-40be-bbb1-09522e3fe481",
+            "reference": "e67865a4-e760-4188-8e92-66da0e8aa8f0",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3563,7 +3553,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:39:07:00",
+            "startTime": "2023-06-30 19:39:07:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3571,7 +3561,7 @@
             ]
         },
         {
-            "reference": "e2fca962-b771-495e-9c3c-f7b948bdbd38",
+            "reference": "7f172670-377e-42ce-8cfc-4129d2aef183",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3583,7 +3573,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:43:49:00",
+            "startTime": "2023-06-30 19:43:49:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3591,7 +3581,7 @@
             ]
         },
         {
-            "reference": "ea945b0a-fcd0-48d9-a11d-a80afe492ccb",
+            "reference": "0d780305-1323-4420-bef1-f274e1b93321",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3603,7 +3593,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:51:29:00",
+            "startTime": "2023-06-30 19:51:29:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3611,8 +3601,8 @@
             ]
         },
         {
-            "reference": "3a16bb69-86af-4d1b-9d32-3cb7af166b30",
-            "type": "fixed",
+            "reference": "14a45d35-c969-443e-ae36-d391a3d23e74",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3623,7 +3613,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 19:56:30:00",
+            "startTime": "2023-06-30 19:56:30:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3631,7 +3621,7 @@
             ]
         },
         {
-            "reference": "2b1c7771-6a99-4936-be84-b88018e8a081",
+            "reference": "74e323b1-e4e3-40e7-9c25-ab99f569f54c",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3643,7 +3633,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:01:08:00",
+            "startTime": "2023-06-30 20:01:08:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3651,7 +3641,7 @@
             ]
         },
         {
-            "reference": "6cca295f-3701-43b3-97e4-d33a3597e488",
+            "reference": "7c955d23-c91e-452e-9bcc-146fa1bda497",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3663,7 +3653,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:11:10:00",
+            "startTime": "2023-06-30 20:11:10:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3671,7 +3661,7 @@
             ]
         },
         {
-            "reference": "b76bb7be-a503-44a4-9548-5e398919f018",
+            "reference": "0161aae0-d8da-45b8-a813-da0ef6dda1b3",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3683,7 +3673,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:19:00:00",
+            "startTime": "2023-06-30 20:19:00:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3691,7 +3681,7 @@
             ]
         },
         {
-            "reference": "75725021-5480-4391-8d7a-c4fec746ef9b",
+            "reference": "ad4a8dca-a29f-4233-ae9b-5bdf2a2ab0f2",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3703,7 +3693,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:23:42:00",
+            "startTime": "2023-06-30 20:23:42:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3711,7 +3701,7 @@
             ]
         },
         {
-            "reference": "64d62efa-ffb6-4998-9688-7494e90b79ec",
+            "reference": "52a45d03-92e8-45ee-8ded-69c32f244f37",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3723,7 +3713,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:31:22:00",
+            "startTime": "2023-06-30 20:31:22:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3731,8 +3721,8 @@
             ]
         },
         {
-            "reference": "a03e343d-3d6b-40a9-a673-7398205efa3b",
-            "type": "fixed",
+            "reference": "bd0b9549-277b-4d73-be57-31d7ee3bbe0a",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3743,7 +3733,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:36:23:00",
+            "startTime": "2023-06-30 20:36:23:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3751,7 +3741,7 @@
             ]
         },
         {
-            "reference": "082ab367-e94c-4d77-9ba2-d64ecc3ae9c6",
+            "reference": "c395baaa-3ec5-40e4-8bd7-b301624be428",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3763,7 +3753,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:41:01:00",
+            "startTime": "2023-06-30 20:41:01:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3771,7 +3761,7 @@
             ]
         },
         {
-            "reference": "a1fba5f1-3626-440c-8081-7e46cbbfcf25",
+            "reference": "0a0d8fee-bad8-4a03-8c74-aafe94dae243",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3783,7 +3773,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:51:03:00",
+            "startTime": "2023-06-30 20:51:03:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3791,7 +3781,7 @@
             ]
         },
         {
-            "reference": "61acad64-7377-48ed-a1e8-2bb5bc3b85fe",
+            "reference": "ffd04969-80ce-4ef0-823d-25b499bd0042",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3803,7 +3793,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 20:58:53:00",
+            "startTime": "2023-06-30 20:58:53:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3811,7 +3801,7 @@
             ]
         },
         {
-            "reference": "7587dd12-cfad-47ad-b97e-0fde61deaf34",
+            "reference": "02e6cd6b-3a17-4199-b622-9f663d9540c0",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3823,7 +3813,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:03:35:00",
+            "startTime": "2023-06-30 21:03:35:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3831,7 +3821,7 @@
             ]
         },
         {
-            "reference": "29898dbe-29ea-498f-a72c-0ba7882d6556",
+            "reference": "c5be461c-2236-42fc-9240-f9b529e2536c",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3843,7 +3833,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:11:15:00",
+            "startTime": "2023-06-30 21:11:15:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3851,8 +3841,8 @@
             ]
         },
         {
-            "reference": "f287d64a-f37f-45a1-b133-a1da74bcee12",
-            "type": "fixed",
+            "reference": "0919bee1-82b3-445f-b15f-3fd55e24bd52",
+            "type": "follow",
             "duration": "00:04:38:00",
             "name": "VAD",
             "assets": [
@@ -3863,7 +3853,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:16:16:00",
+            "startTime": "2023-06-30 21:16:16:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3871,7 +3861,7 @@
             ]
         },
         {
-            "reference": "d31a1e7a-8c34-4aec-ac79-06eefb0244dc",
+            "reference": "c2728140-b9f4-46ba-812f-a870c9118ac5",
             "type": "follow",
             "duration": "00:10:02:00",
             "name": "LEO",
@@ -3883,7 +3873,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:20:54:00",
+            "startTime": "2023-06-30 21:20:54:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3891,7 +3881,7 @@
             ]
         },
         {
-            "reference": "d22afe47-7f27-4a7f-ba2e-bced2258416d",
+            "reference": "3d6137b7-fd20-4acc-a91b-46a978c89fd4",
             "type": "follow",
             "duration": "00:07:50:00",
             "name": "VMC",
@@ -3903,7 +3893,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:30:56:00",
+            "startTime": "2023-06-30 21:30:56:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3911,7 +3901,7 @@
             ]
         },
         {
-            "reference": "a6ab8110-367e-4116-9b38-2ede4ffee8a0",
+            "reference": "045e42d4-ab58-46db-86b2-07afa3553d8d",
             "type": "follow",
             "duration": "00:04:42:00",
             "name": "CODEMUX",
@@ -3923,7 +3913,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:38:46:00",
+            "startTime": "2023-06-30 21:38:46:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3931,7 +3921,7 @@
             ]
         },
         {
-            "reference": "b488433b-772b-4b1a-84c7-6cfc5e12201a",
+            "reference": "8f1bb044-19ad-4bc1-8ce8-e74ea8b59c09",
             "type": "follow",
             "duration": "00:07:40:00",
             "name": "VENA",
@@ -3943,7 +3933,7 @@
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:43:28:00",
+            "startTime": "2023-06-30 21:43:28:00",
             "behaviors": [
                 {
                     "name": "CLP"
@@ -3951,7 +3941,7 @@
             ]
         },
         {
-            "reference": "bdbd3ab5-04ab-43d3-9be2-7197a48e8333",
+            "reference": "56eb9fc6-c866-4018-804a-c33357993a74",
             "type": "follow",
             "duration": "00:05:01:00",
             "name": "NAS PROUD",
@@ -3959,11 +3949,11 @@
                 {
                     "reference": "BTVP1006",
                     "tcIn": "00:00:00:00",
-                     "tcOut": "00:05:01:00",
+                    "tcOut": "00:05:01:00",
                     "type": "main"
                 }
             ],
-            "startTime": "2023-06-28 21:51:08:00",
+            "startTime": "2023-06-30 21:51:08:00",
             "behaviors": [
                 {
                     "name": "CLP"

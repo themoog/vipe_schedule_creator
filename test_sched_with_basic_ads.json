@@ -1,0 +1,6484 @@
+{
+    "events": [
+        {
+            "reference": "ba443fbb-aab8-4cb8-b7a0-f39bf9a5ca0c",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:00:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f333d9d4-2790-40bd-ac5a-71a703f85c1c",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:04:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "22b85bf7-1e14-4e95-a51a-7842ae724285",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:14:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ed91fa0f-d66f-4fab-b600-3e59bf27ceb8",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:22:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "152cc867-dff5-4fbd-9cda-859551f27e84",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:27:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9df2254c-4f3a-41e3-9e29-380c4c469c7c",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:34:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "342c3bd6-b796-4227-9fa4-07c5b9d50661",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:39:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2ee2cd99-5bc3-4dac-9a07-55cb017bf1d4",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:40:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8f96766c-20ae-4775-95ba-2c759742c4bc",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:42:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "08b4e08a-b51b-43a7-bb77-1aeda8d7f1e7",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:43:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b0622cc2-0b02-494b-8540-0b5d2f2b709f",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:48:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7b95684e-25bf-4660-a589-13541cfa45c1",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:58:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8e1dec52-14e8-4d98-a054-161172bc8a64",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:06:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "40d6bb33-b043-4d4d-9259-fb647b700752",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:10:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "82b94487-0f1c-49e6-a5d5-63dd2ee86e5f",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:18:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "469b5539-c5eb-412c-a66e-39f73f153e12",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:23:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "28a0f511-2f26-4c92-ab6b-1bdb31531972",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:24:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4272bc95-66d7-444b-9d97-f08e40e0ffbd",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:26:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3ee6b983-7c33-4c04-93e6-37f7124e9510",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:27:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f05d26aa-d60a-445f-a4f6-4edbaf623fbe",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:32:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e94ef53d-804d-4911-93bf-65ac4dde5926",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:42:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "354bc628-8455-499a-82b2-fd2cc826e507",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:50:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b71566bf-529e-48ee-942f-626b403871b5",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:54:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c45d9a6a-0d03-4372-9289-f4cfa6c994bc",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:02:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4da3b35a-1627-49f0-9f99-ffe8f9e4af0b",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:07:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a9992fad-c81b-4396-b4b4-eaa97aabbffd",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:08:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3ff0a094-f58a-4c68-a866-bb0be8e9e291",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:10:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6f0570c9-8ec5-45e0-8383-c433b43ecc07",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:11:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "db6fb342-f30d-4e74-b3cf-522896b32df1",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:15:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "25311adb-0bdd-44b7-a68d-1b296dd11c57",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:25:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "33bbb7b7-551a-4afc-9e51-a5b26fe5ee0f",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:33:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "278b9258-8442-48e8-aa93-179568369c2b",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:38:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "446292cf-ba08-4bb1-8d78-4e83b874515b",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:46:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8432402f-c284-4740-a892-20be69f2345c",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:51:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c9b0f8df-5312-493c-a41b-7ec9d77ea132",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:52:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ac2f9961-07a3-4e6c-9d29-820b34e26bdf",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:54:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "40b5a917-803b-41e9-86a2-f90e8edef3f2",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:55:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "04327034-7652-49a2-bfa3-cbaba008e48f",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:59:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f0439214-78c4-4175-9e0c-61bdeb32fab6",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:09:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f82469a3-7688-45db-8df6-8017d95bda32",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:17:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7a56c364-00a6-45ab-be06-28b4107963ec",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:22:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "287db23e-4f62-40f5-8c31-f067b0eadbc5",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:29:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bb01e722-caec-4334-85f0-e544e24cb877",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:34:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0b748f5f-0245-41b5-90d8-e41143bde66f",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:35:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3ddab2e0-bde5-430c-b76d-8772bbafac46",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:37:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ebefca13-9240-4c18-b4a2-ea6a71d1574e",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:38:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f3292a89-78ce-4119-a54d-b48280a7cc3f",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:43:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "25c372bc-534f-4122-bbcc-3862887a6d65",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 03:53:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "33edee5f-6c58-4e41-bd22-158998e5756d",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:01:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3093ba2a-9b5f-42ca-aba8-f69a23c0b7fd",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:06:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0ceb6781-be61-4e05-8f61-684d84a9eeb7",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:13:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b191effa-fc17-4888-bac2-8b1121027bd7",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:18:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5ccd50d1-6120-4f90-926c-faa2e4c640f1",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:19:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5f17f9ea-f373-4d84-b1dd-547636d8d913",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:21:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8967f35d-939f-4c94-8fa0-22e3a1e35506",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:22:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8dfc328c-647e-4379-ae4d-745ea2e34f51",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:27:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8bf50e67-5aef-47ac-863c-51493fc501ba",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:37:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1d7d05e6-a7c9-4512-a873-adde7662e7bc",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:45:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bf04e71f-23f3-4545-b9ec-55dddf3e8b3b",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:49:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "865c59c9-0e21-46a4-868e-734b8a23758c",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 04:57:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bfe11a5a-f961-421c-9369-fb668834567b",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:02:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2c00ee8f-94d4-49b4-a154-6268f7f366b6",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:03:19:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5d29d5fe-cbae-4848-9349-e26113955450",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:05:19:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "370d6855-153d-4f47-b4aa-2be8cc9dcfe1",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:06:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4613e404-e417-4425-a7cd-2579c8d3fb35",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:11:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b7070115-58e5-4fab-a117-8cc098fb29a1",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:21:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1578a84d-54fa-4d2b-aa66-c372374eae63",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:28:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "263b71ff-41b1-45ad-bd14-af44ec42a91a",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:33:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "99f5cbc5-b658-44e6-91eb-3e6887c8397f",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:41:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3286c217-f577-44ad-9f48-73767fbe3e65",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:46:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c127dc06-1fe6-46d4-b540-811378d158bc",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:47:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "eb01b22a-d330-49ae-868d-771a3d8d30d7",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:49:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bff9bbbe-4c1c-465b-971e-c62005b90567",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:50:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "499b0bc0-f643-4bb1-9778-72c70769ed4a",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 05:54:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7027c875-73c4-4cad-87d5-130444af280f",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:04:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "569f6143-4547-4a8f-ba1c-f5985720ec8b",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:12:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "de3cda30-d321-41e4-82e0-27b5af019f2f",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:17:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "de7d6572-8346-49b0-ace6-7c158c644040",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:25:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "837e0f77-468c-4d99-a806-85fb146c5bfd",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:30:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4cb8780e-492b-43d0-887b-0c6076686f1e",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:30:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1088f0fc-919e-44bf-b318-d8e74159203b",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:32:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "10359390-d4c3-44fd-bd02-58fe43b00df2",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:33:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1a7a1e8b-07ee-4fc4-9d8e-b5499db1e224",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:38:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8241cc29-7185-44bd-b6b4-c4ea2d7afa7c",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:48:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2fc2706c-1ad5-4579-ab4b-cea1a2688bee",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 06:56:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "54a41346-4c61-4c71-9d09-5ce9799ffe24",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:01:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1ef706c2-e387-4fae-9676-b10782bef1f8",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:08:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2ffbc593-5a1d-46ba-a51c-fc8576fe6e73",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:13:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6db6c262-6971-4c30-b534-01fbdc5f974f",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:14:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "acb53252-fc25-4689-9bb6-e302bb890e1e",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:16:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "74b18406-b5c5-4ae4-9277-c6e8d8bd4ed2",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:17:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "002cc584-7914-4a0a-8294-aa0687c33ada",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:22:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9a5c0db4-47a2-4dcd-8b6e-b053bda182a2",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:32:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a3e79fd7-f796-4dcc-822d-5c5f3dcd4182",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:40:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "94ba167d-f8f3-4e4e-8eda-4bf30da43111",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:44:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "38f6be0b-88f8-4272-bdb4-c6f792595c12",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:52:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6637cf6a-b7e0-44f9-8b63-a864502f2491",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:57:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "655b2d93-23a8-4ac7-97f5-46293b6c8687",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 07:58:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a2aa330d-c206-4f78-982c-0d4c04a7178e",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:00:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "509d790e-c7bc-455d-ac37-5e1e66fa1d3e",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:01:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "893a34c0-faa5-4df9-a3c0-84f4961071ea",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:06:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "605ba5ce-e864-4de9-a9ed-d1a8c571daeb",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:16:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0dc724ec-baec-4db2-ba6b-29fdd31ccd62",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:23:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "35ffac47-4cbd-464d-853b-f6aefb8d029c",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:28:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d2c12e9b-5f61-493b-b2c5-a6454d9aab93",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:36:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "42b80d20-7b19-486d-a055-9cf5450df705",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:41:19:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0c4f775e-ae8a-435f-9edb-dcab7c0129a8",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:42:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "57df4cc1-1036-44f9-8ef7-78fff6dd5fb8",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:44:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b59d699d-8619-4727-8279-de46d7632ec4",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:45:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "07898ad3-b18b-4f09-9a8c-6fd7242507a2",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:49:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "407413a6-25ea-4330-80c3-68dfcaab5f4d",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 08:59:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "00913b0e-e810-4144-a1bd-b556216dd686",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:07:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "793bfd6e-d633-47f2-92c6-23fdf1942cfa",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:12:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5f800a0f-f449-482b-ae2b-11328e2b4c51",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:20:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e5e67b4a-28e3-4c75-9f60-813aca4b522b",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:25:05:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5a732d80-87a7-449c-a174-69644b67cc38",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:25:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2537f935-9449-4ac5-b57a-a7e43e0b7efc",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:27:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "34466c6b-02df-4e9c-a06f-fa30e1973c8a",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:28:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "df107783-f054-4d25-9b86-cfadb9c92206",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:33:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "35651e05-3b5c-4454-a613-c260cf1e5ed3",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:43:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "76a66368-d688-4f36-924d-f49463650c16",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:51:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5ef422b9-47f3-4a5d-b704-87bc0a054ad9",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 09:56:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0d9ed132-4ea6-4311-b463-96de903bf533",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:03:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4d5fa34c-4b41-4233-ba22-c60cf4133a86",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:08:51:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f7842f8a-c2bc-4e28-945b-cbbfdae9ba91",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:09:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e9f16452-00aa-457c-b9fe-69b284b5a165",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:11:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a2211b1d-4f74-4d1f-9e48-b3fc0a1ce88a",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:12:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9e91c6cb-7400-45b9-b317-eed21376c6fd",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:17:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5914168b-5152-478c-94f7-bead9f40cbfa",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:27:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "82e6ab37-54f8-4717-a35a-392d0271a889",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:35:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a22cce02-467c-4a9b-805b-d691b2795acd",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:39:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "86d4649b-7c7d-46ec-8907-7b66b83202a3",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:47:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ac5dd1ef-1e34-4cfe-9fe6-da7628ea2046",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:52:37:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0c24135c-42ad-4634-af0d-85e092231bec",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:53:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "aac979a2-05e7-4ea1-8560-9ecbc2958fa3",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:55:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bdac787b-d74c-4981-8f6c-010231a90f72",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 10:56:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "da318405-36b6-4986-972e-33b5f3c75a94",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:01:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "483582bd-9f6b-47d1-86cd-8d03e38755eb",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:11:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6341d267-1fc5-4371-b8d1-a23f200e318c",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:19:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "47be611e-6975-44a2-8683-d5f159c7a772",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:23:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ca0a2060-ea04-4bca-8e00-d859361066ad",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:31:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f37f01ea-75f0-46dc-8d39-776d430ba210",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:36:23:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "103937d4-96bf-4ba9-b2e7-3bfcfee4e9cb",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:37:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f77d63ef-b0a8-4b7d-b50c-7e205bc809cf",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:39:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5c0f950f-4d44-4161-a659-682defbeacdc",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:40:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d44ba2af-475a-42ab-9b86-89ff4fd2d0dc",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:44:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f3410043-b053-451b-b8b7-f4b8e90bdef3",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 11:54:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "adfcffa8-8b8a-4423-b037-494f8c89e39c",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:02:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4d099467-cd2a-4c12-bfc8-35a72011e18b",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:07:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1a1c965f-3cc6-4e4a-8a5f-799990136dc9",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:15:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c2242d5b-3c2a-4d42-a169-606faea4a895",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:20:09:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f34c5da2-403a-4a40-b516-ce2564e9ad90",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:20:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "64c85a2b-85c9-495e-bc81-deb623bf2648",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:22:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "494fbcf1-3f68-49bd-ac3d-5652f5a28b22",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:24:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c6885e08-34d0-452e-b3d7-b68794b5d1c8",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:28:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5ca0723a-c236-46a9-95f4-f291aa58e2c9",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:38:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "afaf04c3-17f9-4ca9-bd1a-43989538218f",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:46:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7f0e5173-e7a9-4708-b9a1-fe93bc2a940e",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:51:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b834efb7-41db-4687-b8b1-0ed5e85ab0f2",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 12:58:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "daee0db5-3c22-4fa1-af29-bc8e0839b6e3",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:03:55:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "dcaf941a-7fa3-42c3-9ffa-b603ddc24a56",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:04:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1441401a-beb8-48d2-bf24-f7c86f37692f",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:06:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1526f72d-4495-47ee-bdfe-9f207e57ba30",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:07:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5d8e531d-8eff-461f-81e3-85769d2186d7",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:12:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "25443389-a086-465f-bb03-d3d9ab8809cc",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:22:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "03582889-fc04-4273-9e0a-a58134bc5b8e",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:30:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9c29abea-fd75-4400-a4ad-12664db411fa",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:35:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "cd697762-0244-4c01-8133-740121555b3c",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:42:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a565d661-54db-456c-9734-5b05a98e23bd",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:47:41:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f13628e3-ddc2-4400-8345-aa724d927718",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:48:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9ab24ba9-549c-4124-8a75-16165c4e48c9",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:50:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "20fca034-873d-4479-850c-8bbd171e0e1e",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:51:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0099257e-d840-4d32-85d6-76b54265295c",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 13:56:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3e1d3a32-c0bc-41b9-a777-7c3f54049558",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:06:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9ea0fc8d-35d5-4f5b-98da-f462e94b37a0",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:14:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a9471c48-6a84-4bba-8264-283f1e4c49e2",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:18:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "61c13f43-2a12-4ef2-8eca-46f23f5f8eb9",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:26:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "06d0d3e0-ee94-465a-81d4-34f1e29c9578",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:31:27:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b3f034a8-e340-486a-9726-5db630fecfcf",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:32:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c7218335-7650-4ea6-b0ab-a34fe5e44e98",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:34:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "fb1a4229-4b2f-4771-9c1a-185fb3725f0d",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:35:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "819d4cd7-0a9a-4912-b9e7-b05622cebfc6",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:39:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "525af081-0c12-4aff-8462-bfa6349ace00",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:50:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "fb0a1aa7-4539-47da-a20a-453581c3a609",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 14:57:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "57e2e0db-de4b-4e75-9297-96bca47af70c",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:02:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9c17370d-2d94-4ea3-a90f-f7bd06934b23",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:10:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9b05cc34-c798-4e71-b692-48a4ff325e12",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:15:13:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7c112883-a851-4eb9-ad39-4b9131d76698",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:16:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c6a80bcf-03a4-455b-8579-053f60248821",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:18:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a6889229-a155-4670-90f2-82a8c5b22421",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:19:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f3463c8c-86e1-426a-84ba-3c457d7dcfaa",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:23:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "585a0ac9-5114-4b2b-961c-fcfe30d0b0b8",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:33:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ebd0a2d6-bef6-48a7-9b06-650370b82fd5",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:41:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a2a9b2e6-321d-4684-9434-8aa57908d02e",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:46:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "888b35cb-e509-4e2f-a396-2d27e1faa87e",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:53:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0765d5f1-d11b-4917-966f-f97e650a0832",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:58:59:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "daa95ea9-79ac-464f-b734-a2ffb78250f5",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 15:59:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5380fce7-81a7-46ff-b7a7-c6cfe5028ada",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:01:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0db5e088-8c0f-42fe-97b3-de0d6dc39a07",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:02:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "fc202cd5-64c8-4280-81af-3b09cd556085",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:07:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f364ba22-4252-48e6-a676-f84841a781a8",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:17:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "aa36deb8-f78a-4d63-beed-ba1c26ebf487",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:25:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a820e932-5f0e-4d3b-83aa-ca4c21e22432",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:30:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c24a6aaf-c1b7-49ad-a086-f97e04a64321",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:37:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6e398764-95e5-4186-9900-ccb7c703617a",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:42:45:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "71066ba0-1a69-453f-930a-063c8e57c6d8",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:43:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "cfc4b62d-626f-4b37-8fd2-ea44279b38ee",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:45:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e45221c5-5192-4a64-b935-1d14a6dc105c",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:46:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2663ae33-b418-4cbf-870e-c568c5c17022",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 16:51:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b16e11ab-5d83-416d-8e1a-b5588b5787d0",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:01:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b7c95fa7-0694-4a3a-a284-f67ea1e232d8",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:09:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0e6c2af5-4fd5-408c-a550-008abf87b875",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:13:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "87445d76-c1df-49b1-b6f6-7240ea88645a",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:21:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "02aff44d-6e57-4132-9c59-d672bec77652",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:26:31:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a870b631-e0b6-4b44-b54a-5c7c677bf285",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:27:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ab321b32-7262-4f80-9df3-e3e0f046e827",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:29:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d3a84426-ec9b-47cf-b77f-60e9cbe4e13f",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:30:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "49b79494-c4a3-4834-9ea4-cd7a52fbbba0",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:35:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7dfe8c28-a045-489a-8fc4-524c77e4c678",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:45:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d345e2f9-fcfa-4ca8-8280-7a206e81fc90",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:52:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a7fa9773-e23f-4d61-8003-136a78177cbd",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 17:57:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "718e2e43-a82c-486b-a0ee-b90fb4eb843a",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:05:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f8931dfb-8d37-4069-8a47-0ee4f7af0891",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:10:17:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "440308a4-e3f1-4988-93b6-b82df14fc330",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:11:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5de729bd-7173-4e6f-982a-e4aa047c71f9",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:13:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "915ad73a-bcca-4d57-bba8-b02ba52a944d",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:14:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5a5cf1de-52b9-4e87-be0a-b5354ba0279c",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:18:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "61cb4da2-f3dc-4131-842b-2d8f5370c11c",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:28:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "29703c2c-13a8-49dc-bfab-932fd25aa5a9",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:36:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9dfc3bcf-1698-4fb1-84ed-cd0b1d19397c",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:41:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ca715cc5-0c16-4fb8-98cd-41078fc56d0d",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:49:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c4c410b0-79e1-46d4-8d75-bac69dd1668f",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:54:03:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "95aee0dd-c40a-4a95-9e84-edf3db42faf7",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:54:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "81626414-6152-430e-9288-7ae70490da34",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:56:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bf362245-df84-408b-abb8-966f521b0d99",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 18:57:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7f8b4ea4-46af-4848-ada8-9abcf2796d6a",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:02:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a8c662dc-c6c5-4e97-900f-4f0089f67c88",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:12:36:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "603bc477-ed32-4ce8-884b-0fa72db1b790",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:20:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "3baf5777-97cc-4835-89f3-ad41df522872",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:25:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "43da98fa-dc7c-44e0-b9c1-fd635bf2b7ad",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:32:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "fe0bf659-5178-4662-8cdc-9bb2ddcc77a4",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:37:49:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "69348fce-840d-4ac5-9c20-7d29e6162e0c",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:38:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "90152110-3e91-4fbc-b4fb-2cbe26929e28",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:40:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0376865a-e501-4ff2-a20a-d14fcf57ed32",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:41:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1d95863b-242c-4e38-80fe-b33d5f95ad76",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:46:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2ad50f41-8c24-416e-8baa-6f8cecaa0154",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 19:56:22:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a25dfca1-8b95-4c50-9b1b-661c111cc192",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:04:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "23e6c1e8-f5d1-442c-92a4-03f358b92d02",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:08:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b4fe4351-47db-4bc9-8934-8d00b772b8e9",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:16:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d90f6123-78cd-4e78-a235-34b5c9243d50",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:21:35:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ecdd83cd-54f8-4304-9652-1e5ac448e808",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:22:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "29e32525-7e59-4521-9b51-73cb46cae618",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:24:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5c375954-93bf-4ec9-9b0a-c7be7b39e109",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:25:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c8688a24-2ceb-49e5-b6ec-4e2694406794",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:30:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6876d2ab-cca2-4767-9a5a-ccb2c2d6e248",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:40:08:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ec7926a2-e7b8-4f61-882f-cfd274b16d55",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:47:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e4bfb298-4ed2-421a-89df-b660332ef76e",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 20:52:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4d2d69fa-1e0c-4fb0-a2e4-473d38c70c6b",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:00:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "428a70fc-56a0-4f12-bba9-32b35711c14a",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:05:21:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "315e46ad-8f9a-489e-986e-1eaec13b5aa6",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:06:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7285971b-9ddb-489a-b15f-32e5dd6ad2fc",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:08:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9d2e336a-d976-4b07-b1c0-df4dc21be5a0",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:09:14:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bce63f05-3f53-4e11-9bbf-4c8bbf6626e4",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:13:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0789a148-5737-4cdc-a741-744e0a72ecfd",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:23:54:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2e3939cb-c30f-45e4-8b03-b28955f8ba36",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:31:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "f82bd2e8-cbf1-4a4e-a0ce-a879605e0ef0",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:36:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2d83c027-face-42e1-bc6f-122534e38147",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:44:06:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8020da3a-594a-47bb-85b8-fb09bb760179",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:49:07:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9c616603-bfa1-4729-b934-cf4fc61ca756",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:49:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a30f9987-a31f-4246-a883-abca62a060fe",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:51:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d2898389-2d4d-4503-bb6e-d4e8d08371aa",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:53:00:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "bc1afb18-a777-427b-92c0-82ae3e0e6b31",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 21:57:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4575e067-6986-4a2a-8e4a-8b744cc15dd0",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:07:40:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2200fce6-6686-40cf-83f3-6406b8e169ad",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:15:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5741f1f4-15c3-4bcb-80ab-87a83fe9ee6d",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:20:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8619e914-51e3-478d-816c-a57a10f9e88a",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:27:52:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4991e874-b118-4e28-a159-7c89f28a4cd7",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:32:53:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "acc94020-a4cf-432c-b8d3-996c975a425d",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:33:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d957a7af-b169-4208-8304-1b368bf42c73",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:35:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0e9bb0ac-3e9e-43cf-8489-36a8f4b0f2dd",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:36:46:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "fc74e049-938c-4220-bbb0-fd790400ad89",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:41:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "769eabdc-da88-4af4-aeee-2424517c2784",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:51:26:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "8d0399c7-8a14-433b-9b0e-59adde2df485",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 22:59:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d7da3065-cfe5-4aa6-a9d6-105bd83e6e20",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:03:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "9b6ad16e-b58d-4c27-bd26-a325f34fa573",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:11:38:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "62c641ef-2516-443e-ab76-8d9d706fe9fd",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:16:39:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "44ad93ad-7cf9-4981-b67f-fcb8d9828fef",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:17:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "53e9401e-3da7-422e-9de8-f3c838f075f6",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:19:29:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b023c700-7210-4d6a-ab87-ddaeed8297a3",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:20:32:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "587d9d69-da71-4756-a8a2-7eb7313f4097",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:25:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "76ce50fc-c8dc-4e66-a45f-2fb0703892df",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:35:12:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "6b3775de-827e-4488-9b37-dcba88ba3f98",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:43:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a8cce325-1929-45a5-9251-33f0908250f8",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:47:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "251ce05c-0d11-4a1b-97b0-b8456e42b283",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 23:55:24:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b7191dc3-3f99-45dd-a2b8-91f5f9c80be4",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:00:25:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "24fefafe-893d-4ba7-a3a3-faa6dd0fbe64",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:01:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d47ccde9-5d99-4c22-ac9b-0c1715a52ac6",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:03:15:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "89b8516f-f256-4534-a3d8-ba1d47b1c2f9",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:04:18:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2a25e278-f149-407b-aec7-c6d3588d63a9",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:08:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0f99d91e-a667-4e7f-84fc-1e1f5c9dcdf3",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:18:58:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "d530b087-0ee4-460a-b6d8-a303d2db6dcf",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:26:48:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "02b3561f-2313-40ac-a349-560bd843f0ac",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:31:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "68fddd65-3258-40c0-9ac9-d2bce6773f3f",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:39:10:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a4955fe7-4372-45d9-818e-b6db01bd1418",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:44:11:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c886c0ac-1a30-41ca-95d5-fdc8ce1a8280",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:45:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a4df4ea2-9c92-4f72-9920-16a70d64f425",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:47:01:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "5e81ec1f-366d-4d3e-bb2d-caa46545ef3d",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:48:04:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e46c4831-22e8-49bf-b254-4ec81f59517f",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 00:52:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "c75f616e-43e3-49b4-8477-0a576f489ce9",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:02:44:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "2d57e25b-6bcb-4505-ab4c-6bc059e230c2",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:10:34:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "7e8a17c2-1475-49b4-b63c-6f262aaefc2f",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:15:16:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "ddade548-c6b6-4397-bd8e-48a1276c61f4",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:22:56:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "56605f86-a40b-488d-badf-07285131f4d2",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:27:57:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "a424416a-517e-484d-8f5e-8cda174be6ec",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:28:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "4cc3b241-8914-48a5-bdff-948a1e22ef22",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:30:47:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "29d4711b-24f2-4d32-8a65-6e79ed052877",
+            "type": "fixed",
+            "duration": "00:04:38:00",
+            "name": "VAD",
+            "assets": [
+                {
+                    "reference": "BTVP1001",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:38:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:31:50:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "0b16f70e-431d-4f92-89fe-e2ff35ea1cc8",
+            "type": "follow",
+            "duration": "00:10:02:00",
+            "name": "LEO",
+            "assets": [
+                {
+                    "reference": "BTVP1002",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:10:02:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:36:28:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "187702fe-a388-434c-91da-c4b5b71fe55e",
+            "type": "follow",
+            "duration": "00:07:50:00",
+            "name": "VMC",
+            "assets": [
+                {
+                    "reference": "BTVP1003",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:46:30:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1873c910-d3a1-44a1-99fe-fc5a8cb793b2",
+            "type": "follow",
+            "duration": "00:04:42:00",
+            "name": "CODEMUX",
+            "assets": [
+                {
+                    "reference": "BTVP1004",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:04:42:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:54:20:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e29d6214-c23e-410c-84f5-1ab815658578",
+            "type": "follow",
+            "duration": "00:07:40:00",
+            "name": "VENA",
+            "assets": [
+                {
+                    "reference": "BTVP1005",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:07:40:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 01:59:02:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "b4c53dff-8d7e-4079-b7fe-94fbd07d0b9b",
+            "type": "follow",
+            "duration": "00:05:01:00",
+            "name": "NAS PROUD",
+            "assets": [
+                {
+                    "reference": "BTVP1006",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:05:01:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:06:42:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "1caa8b97-79a9-4dd1-ac3e-5e454837806b",
+            "type": "follow",
+            "duration": "00:00:50:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1007",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:00:50:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:11:43:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "759b0d8f-9025-43cf-b50f-b7bbe8787f10",
+            "type": "follow",
+            "duration": "00:02:00:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1008",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:02:00:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:12:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        },
+        {
+            "reference": "e8bb260a-719f-424b-9fb6-58ea6d5ccaab",
+            "type": "follow",
+            "duration": "00:01:03:00",
+            "name": "BT AD",
+            "assets": [
+                {
+                    "reference": "BTVP1009",
+                    "tcIn": "00:00:00:00",
+                    "tcOut": "00:01:03:00",
+                    "type": "main"
+                }
+            ],
+            "startTime": "2023-06-30 02:14:33:00",
+            "behaviors": [
+                {
+                    "name": "CLP"
+                }
+            ]
+        }
+    ]
+}

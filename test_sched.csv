@@ -1,4 +1,4 @@
-﻿type,duration,name,reference,tcIn,tcOut,assetType,startTime,behaviorName
+type,duration,name,reference,tcIn,tcOut,assetType,startTime,behaviorName
 follow,00:04:38:00,VAD,BTVP1001,00:00:00:00,00:04:38:00,main,2023-06-28 00:00:00:00,CLP
 follow,00:10:02:00,LEO,BTVP1002,00:00:00:00,00:10:02:00,main,2023-06-28 00:04:38:00,CLP
 follow,00:07:50:00,VMC,BTVP1003,00:00:00:00,00:07:50:00,main,2023-06-28 00:14:40:00,CLP
