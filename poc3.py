@@ -111,8 +111,8 @@ if __name__ == "__main__":
 
     SCHEDULE_OUTPUT_DATE = datetime.today().strftime("%Y-%m-%d")
     # Define the CSV and JSON filenames
-    csv_filename = "test_sched.csv"
-    json_filename = "test_sched.json"
+    csv_filename = "test_sched_with_basic_ads_inter.csv"
+    json_filename = "test_sched_with_basic_ads_inter.json"
 
     # Call the function to read CSV and create JSON
     read_csv_and_create_json(csv_filename, json_filename, SCHEDULE_OUTPUT_DATE)
